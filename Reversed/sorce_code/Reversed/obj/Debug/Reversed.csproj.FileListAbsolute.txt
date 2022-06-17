@@ -1,0 +1,10 @@
+C:\Users\imian\source\repos\Reversed\Reversed\bin\Debug\Reversed.exe.config
+C:\Users\imian\source\repos\Reversed\Reversed\bin\Debug\Reversed.exe
+C:\Users\imian\source\repos\Reversed\Reversed\bin\Debug\Reversed.pdb
+C:\Users\imian\source\repos\Reversed\Reversed\obj\Debug\Reversed.csprojAssemblyReference.cache
+C:\Users\imian\source\repos\Reversed\Reversed\obj\Debug\Reversed.Form1.resources
+C:\Users\imian\source\repos\Reversed\Reversed\obj\Debug\Reversed.Properties.Resources.resources
+C:\Users\imian\source\repos\Reversed\Reversed\obj\Debug\Reversed.csproj.GenerateResource.cache
+C:\Users\imian\source\repos\Reversed\Reversed\obj\Debug\Reversed.csproj.CoreCompileInputs.cache
+C:\Users\imian\source\repos\Reversed\Reversed\obj\Debug\Reversed.exe
+C:\Users\imian\source\repos\Reversed\Reversed\obj\Debug\Reversed.pdb

@@ -1,0 +1,2 @@
+type number under "to" and press button + or - or / or *
+and type answer press Check and that it : )

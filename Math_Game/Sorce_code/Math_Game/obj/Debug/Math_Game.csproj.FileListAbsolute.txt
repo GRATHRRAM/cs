@@ -1,0 +1,10 @@
+C:\Users\imian\source\repos\Math_Game\Math_Game\bin\Debug\Math_Game.exe.config
+C:\Users\imian\source\repos\Math_Game\Math_Game\bin\Debug\Math_Game.exe
+C:\Users\imian\source\repos\Math_Game\Math_Game\bin\Debug\Math_Game.pdb
+C:\Users\imian\source\repos\Math_Game\Math_Game\obj\Debug\Math_Game.csprojAssemblyReference.cache
+C:\Users\imian\source\repos\Math_Game\Math_Game\obj\Debug\Math_Game.Form1.resources
+C:\Users\imian\source\repos\Math_Game\Math_Game\obj\Debug\Math_Game.Properties.Resources.resources
+C:\Users\imian\source\repos\Math_Game\Math_Game\obj\Debug\Math_Game.csproj.GenerateResource.cache
+C:\Users\imian\source\repos\Math_Game\Math_Game\obj\Debug\Math_Game.csproj.CoreCompileInputs.cache
+C:\Users\imian\source\repos\Math_Game\Math_Game\obj\Debug\Math_Game.exe
+C:\Users\imian\source\repos\Math_Game\Math_Game\obj\Debug\Math_Game.pdb
